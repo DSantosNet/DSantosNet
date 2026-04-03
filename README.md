@@ -2,17 +2,18 @@
 
 Welcome to my GitHub profile.
 
-💻 Systems Engineer | Networking (CCNA in progress)
 
-📍 Mexico
+
+
 
 
 
 ## 🚀 About Me
+- 💻 Systems Engineer | Networking (CCNA in progress)
 - 🔭 Currently working on: Networking & Infrastructure
-- 📚 Learning: CCNA + Automation + IoT
+- 📚 Learning: CCNA + Automation
 - ⚡ Goal: Become Network Engineer / DevNet
-
+- 📍 Mexico
 
 ## 🛠️ Tech Stack
 ![Cisco](https://img.shields.io/badge/Cisco-Networking-blue)
