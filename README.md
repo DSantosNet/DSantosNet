@@ -3,19 +3,20 @@
 Welcome to my GitHub profile.
 
 💻 Systems Engineer | Networking (CCNA in progress)
+
 📍 Mexico
 
 
----
 
 ## 🚀 About Me
 - 🔭 Currently working on: Networking & Infrastructure
 - 📚 Learning: CCNA + Automation + IoT
 - ⚡ Goal: Become Network Engineer / DevNet
 
----
 
 ## 🛠️ Tech Stack
+![Cisco](https://img.shields.io/badge/Cisco-Networking-blue)
+![Python](https://img.shields.io/badge/Python-Beginner-yellow)
 - Networking: Cisco, VLANs, Routing
 - Tools: Packet Tracer, Wireshark
 - Programming: Python (basic)
@@ -24,12 +25,6 @@ Welcome to my GitHub profile.
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=TU_USER&show_icons=true)
-
----
-
-## 📌 Featured Projects
-- 🔹 Project 1 - descripción
-- 🔹 Project 2 - descripción
 
 <!--
 **DSantosNet/DSantosNet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
