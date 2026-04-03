@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello there 👋
+
+Welcome to my GitHub profile.
+
+💻 Systems Engineer | Networking (CCNA in progress)
+🌐 Interested in Networking, CISCO topics and automation with python.
+
+📍 Mexico
 
 <!--
 **DSantosNet/DSantosNet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
